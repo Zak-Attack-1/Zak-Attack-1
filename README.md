@@ -70,7 +70,7 @@
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zakaria-alaimia-274231156/)
-- 📧 Email: `rlzah2034@gmail.com` , 'z_alaimia@estin.dz' , 'jz_alaimia@esi.dz'
+- 📧 Email: `rlzah2034@gmail.com` , `z_alaimia@estin.dz` , `jz_alaimia@esi.dz`
 
 ---
 

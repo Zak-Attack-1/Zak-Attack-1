@@ -33,10 +33,6 @@
 ➡️ Includes global overviews, country comparisons, and forecasting  
 [🔗 View Project](https://github.com/Zak-Attack-1/world-bank-dashboard)
 
-🔹 **Global Consulting Firms Intelligence Report** *(WIP)*  
-🏢 A multi-layered dashboard comparing consulting firms worldwide by size, sector, and region  
-➡️ Simulated ERP integration aligned with SAP-style modules
-
 ---
 
 ### ⚙️ Skills & Tools

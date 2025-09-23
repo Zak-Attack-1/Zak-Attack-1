@@ -3,17 +3,17 @@
 <h1 align="center">Hi, I'm Zak 👋</h1>
 
 <p align="center">
-🎓 Engineering Student | 📊 Aspiring Data & BI Professional | 🛠️ Learning by Building
+🎓 Engineering Student | 📊 Aspiring Data & AI Professional | 🛠️ Learning by Building
 </p>
 
 ---
 
 ### 📌 About Me
 
-- 🧠 Final-year engineering student passionate about **data, analytics, and business intelligence**
+- 🧠 Final-year engineering student passionate about **data, analytics, and artificial intelligence**
 - 💡 I learn by building hands-on projects that simulate real-world data scenarios
 - 📊 Interested in **data visualization**, **SQL analytics**, and **open-source data tools**
-- 🌱 Currently improving my skills in **Power BI**, **PostgreSQL**, and **Python data analysis**
+- 🌱 Currently improving my skills in **LLMs**,**RAGs**, **PostgreSQL**, and **Python data analysis**
 
 ---
 
@@ -38,7 +38,13 @@
 ### ⚙️ Skills & Tools
 
 **Languages & Analysis**  
-`Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` (basic)
+`Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` 
+
+**Machine Learning**
+`Random Forest` | `SVM` | `XGBOOST` 
+
+**Deep Learning** 
+`Graph Neural Networks` | `LLMS (beginner)` | `RAG (beginner)`
 
 **Data Modeling & Transformation**  
 `dbt` | `Jupyter Notebooks`
@@ -47,7 +53,7 @@
 `PostgreSQL`
 
 **Business Intelligence & Visualization**  
-`Power BI` | `Tableau` (beginner) | `Streamlit` | `Matplotlib` | `Seaborn`
+`Power BI` | `Tableau` | `Streamlit` | `Matplotlib` | `Seaborn`
 
 **Other Tools**  
 `Git` | `Linux` | `VS Code` | `Anaconda`
@@ -70,4 +76,4 @@
 
 ---
 
-> *"Every project I build is a step toward becoming the professional I want to be."*
+

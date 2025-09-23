@@ -41,9 +41,11 @@
 `Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` 
 
 **Machine Learning**
+
 `Random Forest` | `SVM` | `XGBOOST` 
 
 **Deep Learning** 
+
 `Graph Neural Networks` | `LLMS (beginner)` | `RAG (beginner)`
 
 **Data Modeling & Transformation**  

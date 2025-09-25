@@ -12,7 +12,7 @@
 
 - 🧠 Final-year engineering student passionate about **data, analytics, and artificial intelligence**  
 - 💡 I learn by building hands-on projects that simulate real-world data scenarios  
-- 📊 Interested in **AI**,**Deep Learning**,**LLMs**,**data visualization**, **SQL analytics**, and **open-source data tools**  
+- 📊 Interested in **AI**, **Deep Learning**, **LLMs**, **data visualization**, **SQL analytics**, and **open-source data tools**  
 - 🌱 Currently improving my skills in **LLMs**, **RAGs**, **PostgreSQL**, and **Python data analysis**  
 
 ---

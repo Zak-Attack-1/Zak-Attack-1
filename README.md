@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Zak 👋</h1>
 
 <p align="center">
-🎓 Engineering Student | 📊 Aspiring Data & AI Professional | 🛠️ Learning by Building
+🎓 Computer Science Engineering Graduate | 📊 Aspiring Data & AI Professional | 🛠️ Learning by Building
 </p>
 
 ---
